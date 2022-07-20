@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/thefuga/hexa-mailbox.svg)](https://pkg.go.dev/github.com/thefuga/hexa-mailbox)
+------
 # Hexa Mailbox
 Simple conceptual project to apply the mailbox patter on an ports/adapters architecture.
 
